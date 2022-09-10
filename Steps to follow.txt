@@ -1,0 +1,6 @@
+- Perform proper data cleaning
+- Focus on data visualization and infer details from it. 
+- Use 4-5 models for training, do proper hyperparameter tuning and choose the right evaluation metrics to finalize your model. 
+- Create a detailed report mentioning all the steps in the format of sample documentation file. 
+- Create a powerpoint presentation of the project. 
+- Test your predictions on multiple metrics like ROC-AUC curve, accuracy, Recall and Precision.   
